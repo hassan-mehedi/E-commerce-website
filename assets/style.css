@@ -1,0 +1,27 @@
+.container
+{
+	margin-top: 100px;
+}
+.newarrival
+{
+	background: green;
+	width: 50px;
+	color: white;
+	font-size: 12px;
+	font-weight: bold;
+}
+.price
+{
+	color: #e67300;
+	font-size: 26px;
+	font-weight: bold;
+	padding-top: 20px;
+}
+.quan
+{
+	border:1px solid #ccc;
+	font-weight: bold;
+	height: 33px;
+	text-align: center;
+	width: 30px;
+}
